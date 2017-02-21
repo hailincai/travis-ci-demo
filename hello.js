@@ -1,7 +1,7 @@
 'use strict';
 
 function getGreeting(){
-  return "Hello World";
+  return "Hello Node";
 }
 
 function hello(){
